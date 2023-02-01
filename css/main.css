@@ -71,6 +71,7 @@ footer {
   padding: 2rem 0;
 }
 
+/* Hides skip links from view when not in focus */
 .skip-links {
   margin: 0;
   padding: 0;
